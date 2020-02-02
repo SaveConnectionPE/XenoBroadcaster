@@ -37,4 +37,3 @@ class BroadcastTask extends Task{
 		$this->plugInstance->broadcastMessage($prefix.$message);
 	}
 }
-?>
